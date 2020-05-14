@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "mocha",
     "start": "node server.js"
   },
   "author": "",
@@ -20,11 +20,11 @@
 "devDependencies": {},
 "repository": {
 "type": "git",
-"url": "git+https://github.com/hhadzic3/nrs-tutorijal7.git"
+"url": "git+https://github.com/VedadBukva/nrs-tutorijal7.git"
 },
 "bugs": {
-"url": "https://github.com/hhadzic3/nrs-tutorijal7/issues"
+"url": "https://github.com/VedadBukva/nrs-tutorijal7/issues"
 },
-"homepage": "https://github.com/hhadzic3/nrs-tutorijal7#readme",
+"homepage": "https://github.com/VedadBukva/nrs-tutorijal7#readme",
 "description": ""
 }
